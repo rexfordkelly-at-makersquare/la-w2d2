@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * *
- *     MASTERY PT 4: MISC      *
+ *     FOUNDATIONS PT 4: EXTRA CREDIT      *
  * * * * * * * * * * * * * * * * * * * * * */
 
 // Looking for more useful JavaScript methods to implement? These are  

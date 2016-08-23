@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * *
- *    MASTERY PT 1: THE MATH OBJECT    *
+ *    FOUNDATIONS PT 1: THE MATH OBJECT    *
  * * * * * * * * * * * * * * * * * * * * * */
 
 // The Math object has all sorts of useful methods that JavaScript

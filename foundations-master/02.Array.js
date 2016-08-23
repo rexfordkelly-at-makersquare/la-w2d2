@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * *
- *   MASTERY JS PT 2: ARRAY METHODS    *
+ *   FOUNDATIONS JS PT 2: ARRAY METHODS    *
  * * * * * * * * * * * * * * * * * * * * * */
 
 // Part of what makes arrays so powerful are the many useful methods
