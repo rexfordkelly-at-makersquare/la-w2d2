@@ -107,7 +107,7 @@ function repeatString(str,count) {
 
 //I know how to do this! But my brain's not working at the moment. None of the below functions work. I need to review arrays/objects.
 
-function average() {
+function average() { // ok, so this works, but line 114 is a little odd, why not move that expression out of the loop?
 var arr = Array.from(arguments)
 for(i=0; i<=arr.length; i++) {
   arr += arr[i];
@@ -122,7 +122,7 @@ var arr = Array.from(arguments)
 var solve = 0;
 for(i=0; i<=arr.length; i++) {
   solve += arr[i];
-  solve1 = arr/arr.length;
+  solve1 = arr/arr.length; // again, this is a little odd, it works but could it not be done out of the loop?
 }
 return solve1
 }
@@ -144,7 +144,7 @@ function average(array) {
  for(i=0; i<=array.length; i++) {
   result += result + array[i];
  }
- return result
+ return result 
 }
 
 
